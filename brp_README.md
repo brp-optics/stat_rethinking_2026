@@ -34,5 +34,10 @@ git push origin $(git log --before="2025-01-01" -1 --format="%H"):main
 git clone https://github.com/brp-optics/stat_rethinking_2026_private
 git remote add upstream https://github.com/rmcelreath/stat_rethinking_2026
 git remote add private https://github.com/brp-optics/stat_rethinking_2026_private
+
+# Oops. Can't push over https.
+git remote set-url origin git@github.com:brp-optics/stat_rethinking_2026.git
+git remote set-url private git@github.com:brp-optics/stat_rethinking_2026_private.git
+
 ```
 
