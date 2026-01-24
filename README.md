@@ -63,7 +63,15 @@ There will be one set of homework problems each week for each section. If you ma
 
 There are 10 weeks of instruction. Links to lecture recordings will appear in this table. Weekly problem sets are assigned each week and due the next week. Late work is always acceptable. But keeping up is in your own interest.
 
-The new lectures for 2026 will appear as links in the table below. There is a set of recorded lectures from 2023 that might also be of use, either as a supplement to in-person lectures or for review. Full lecture playlist: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
+The new lectures for 2026 will appear as links in the table below.
+
+Section A (Beginner) playlist: <[Section A](https://www.youtube.com/watch?v=ztbYkBPDOgU&list=PLDcUM9US4XdPMtSV81e1R_4B6NugQBvTP)>
+
+Section B (Experienced) playlist: <[Section B](https://www.youtube.com/watch?v=jh3RltVrQ-Q&list=PLDcUM9US4XdMD5hEU5uinyBYFFPXMYBfn)>
+
+Full 2026 Playlist (Sections A and B in chronological order): <[2026 Playlist](https://www.youtube.com/watch?v=MBhjDMXtANE&list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14)>
+
+There is a set of recorded lectures from 2023 that might also be of use, either as a supplement to in-person lectures or for review: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
 
 | Week ## | Meeting date | Section | Topic | Reading |
 | ------- | ----------- | ---------- | ------------------------- | ------------|
